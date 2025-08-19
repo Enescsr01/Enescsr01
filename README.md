@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben [Adınız]
+# 👋 Merhaba, Ben Enes Cesur.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Game+Developer;AI+Enthusiast;Mobile+App+Developer" alt="Typing SVG" />
@@ -104,9 +104,9 @@ Oyun geliştirme, mobil uygulama ve yapay zeka projelerinde uzmanlaşmış yazı
 ## 🌐 Bağlantılar
 
 [![Website](https://img.shields.io/badge/Website-softotuken.com.tr-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.softotuken.com.tr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PROFIL_LINKINIZ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iletisim@softotuken.com.tr)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULLANICI_ADINIZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enes-cesur-03a861226/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enes.cesur@softotuken.com.tr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enescsr01)
 
 ## 🎖️ Başarılar & Sertifikalar
 
@@ -118,7 +118,7 @@ Oyun geliştirme, mobil uygulama ve yapay zeka projelerinde uzmanlaşmış yazı
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Enescsr01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
