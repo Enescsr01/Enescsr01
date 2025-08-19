@@ -104,7 +104,7 @@ Oyun geliştirme, mobil uygulama ve yapay zeka projelerinde uzmanlaşmış yazı
 ## 🌐 Bağlantılar
 
 [![Website](https://img.shields.io/badge/Website-softotuken.com.tr-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.softotuken.com.tr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enes-cesur-03a861226/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enes-cesur-03a861226/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enes.cesur@softotuken.com.tr)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enescsr01)
 
