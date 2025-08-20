@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Selam, Ben [ADINIZ]** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Selam, Ben Enes Cesur** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Oyunlar%C4%B1mla+hayalleri+ger%C3%A7ek+yap%C4%B1yorum+%F0%9F%8E%AE;Yapay+Zeka+ile+gelece%C4%9Fi+%C5%9Fekillendiriyorum+%F0%9F%A4%96" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-```javascript
+
 const entrepreneur = {
   fullName: "🔥 [ADINIZ] 🔥",
   title: "Game Dev & AI Wizard 🎮🤖",
@@ -48,7 +48,7 @@ const entrepreneur = {
   
   motto: "Code is poetry, games are dreams! ✨"
 };
-```
+
 
 </td>
 <td width="50%" valign="top">
