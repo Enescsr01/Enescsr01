@@ -14,41 +14,43 @@
 <tr>
 <td width="50%" valign="top">
 
-```javascript
-const entrepreneur = {
-  fullName: "🔥 Enes Cesur 🔥",
-  title: "Game Dev & AI Wizard 🎮🤖",
-  company: {
-    current: "Fresko Yapı AŞ - IT Manager 💼",
-    startup: "OtukenSoft - Founder & CEO 🚀"
-  },
-  education: {
-    university: "Malatya Turgut Özal Üniversitesi 🎓",
-    field: "Software Engineering"
-  },
-  experience: {
-    infinetx: "Game Developer (Remote) 🎯",
-    fresko: "IT Department Manager 👨‍💻",
-    otukensoft: "Startup Founder 🔥"
-  },
-  skills: ["C#", "Unreal Engine", "Unity", 
-           "Python", "AI/ML", "React Native"],
-  currentFocus: "Horror games & AI solutions",
-  
-  dailyLife: () => {
-    return [
-      "☕ Kahve + Kod = Güç",
-      "🎮 Korku oyunu mekanikleri", 
-      "🤖 AI/ML modelleri eğit",
-      "📱 Mobile app geliştir",
-      "💡 OtukenSoft stratejileri",
-      "🔄 Sonsuz döngü..."
-    ];
-  },
-  
-  motto: "Code is poetry, games are nightmares! 👻✨"
-};
-```
+## 💼 **Profesyonel Profil** <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30">
+
+### 🔥 **Enes Cesur** 
+**Game Dev & AI Wizard & Mobile Expert** 🎮🤖📱
+
+---
+
+### 🏢 **Şirketler**
+- **💼 Fresko Yapı AŞ** - IT Manager  
+- **🚀 OtukenSoft** - Founder & CEO
+
+### 🎓 **Eğitim**
+- **📚 Malatya Turgut Özal Üniversitesi**
+- **💻 Software Engineering**
+
+### 💼 **Deneyim Geçmişi**
+- **🎯 İnfinetx** - Game Developer (Remote)
+- **👨‍💻 Fresko Yapı** - IT Department Manager  
+- **🔥 OtukenSoft** - Startup Founder
+
+### 🛠️ **Ana Beceriler**
+`C#` `Unreal Engine` `Unity` `Python` `AI/ML` `React Native` `Flutter` `Kotlin` `Swift`
+
+### 🎯 **Odak Alanları**
+Horror Games • AI Solutions • Mobile Apps
+
+---
+
+### ☕ **Günlük Rutinlerim**
+- 🎮 Korku oyunu mekanikleri tasarla
+- 🤖 AI/ML modelleri eğit  
+- 📱 Mobile app prototype
+- 💼 IT altyapısı optimize et
+- 💡 OtukenSoft stratejileri
+- 🔄 Kod, test, deploy, repeat...
+
+**💫 Motto:** *"Code is poetry, games are nightmares, apps are life!"* 👻📱✨
 
 </td>
 <td width="50%" valign="top">
@@ -58,16 +60,17 @@ const entrepreneur = {
 - 🎮 **Korku oyunu projesi** geliştiriyorum (Unreal Engine)
 - 🤖 **AI ev fiyat tahmin** sistemi yapıyorum (MindsDB)  
 - 📱 **Cross-platform mobile apps** kodluyorum
+- 🍎 **iOS & Android native apps** geliştiriyorum
 - 💼 **IT altyapısını** modernize ediyorum
 - 🏢 **OtukenSoft** şirketimi büyütüyorum
-- 🌟 **Next-gen teknolojileri** keşfediyorum
 
 ### 🎯 **2025 Hedefleri** <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25">
 - [ ] Horror game Steam'de yayınlama 🎮
 - [ ] AI-powered real estate platform 🏠
-- [ ] 10+ mobile app yayınlama 📱
+- [ ] 5+ mobile app store'da yayınlama 📱
+- [ ] React Native + Flutter expertise 💻
 - [ ] OtukenSoft'u unicorn yapma 🦄
-- [ ] VR korku deneyimleri oluşturma 👻
+- [ ] AR mobile games oluşturma 📲
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enescsr01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&icon_color=00D9FF" width="100%"/>
 
@@ -83,27 +86,32 @@ const entrepreneur = {
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=unreal,unity,godot" /><br/>
 <sub><b>🎮 Game Engines</b></sub><br/>
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=cs,cpp,js" /><br/>
 <sub><b>⚡ Core Languages</b></sub><br/>
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50">
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=react,nodejs,html" /><br/>
-<sub><b>📱 Web & Mobile</b></sub><br/>
+<sub><b>🌐 Web Development</b></sub><br/>
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50">
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=reactnative,flutter,kotlin" /><br/>
+<sub><b>📱 Mobile Development</b></sub><br/>
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
+</td>
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /><br/>
 <sub><b>🤖 AI & ML</b></sub><br/>
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 <img src="https://skillicons.dev/icons?i=docker,git,vscode" /><br/>
 <sub><b>🔧 DevOps & Tools</b></sub><br/>
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50">
@@ -111,7 +119,7 @@ const entrepreneur = {
 </tr>
 </table>
 
-<img src="https://skillicons.dev/icons?i=blender,photoshop,figma,github,androidstudio,postgresql,mongodb,firebase,aws" />
+<img src="https://skillicons.dev/icons?i=swift,androidstudio,xcode,firebase,figma,blender,photoshop,github,postgresql,mongodb" />
 
 </div>
 
@@ -142,7 +150,7 @@ const entrepreneur = {
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🎮 **Game Development** <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
 ```
@@ -155,7 +163,20 @@ const entrepreneur = {
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
+
+### 📱 **Mobile Development** <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30">
+```
+📲 React Native Expert
+📲 Flutter Specialist
+📲 iOS Native (Swift)
+📲 Android Native (Kotlin)
+📲 Cross-Platform Master
+📲 App Store Optimization
+```
+
+</td>
+<td width="25%" align="center">
 
 ### 🤖 **Artificial Intelligence** <img src="https://media.giphy.com/media/3oKIPzjmSIBLX3ebOE/giphy.gif" width="30">
 ```
@@ -168,7 +189,7 @@ const entrepreneur = {
 ```
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 💼 **Business & Leadership** <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30">
 ```
@@ -276,11 +297,13 @@ VR Horror • Mobile Games • AI Tools<br/>
 
 ### 🎯 **Fun Facts About Me** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 - 👻 Korku oyunları geliştirmeyi ve oynamayı seviyorum
+- 📱 Mobil uygulamalar günlük hayatımızın vazgeçilmezi
 - ☕ Günde 5+ kahve içerim (kodlama fuel'ı)
 - 🤖 AI modelleri eğitirken zamanın nasıl geçtiğini anlamıyorum  
 - 🌙 En iyi korku atmosferlerini gece yaratırım
 - 🎵 Dark ambient müzik + kodlama = Perfect nightmare combo
 - 🏠 Ev fiyatlarını AI ile tahmin etmeyi hobiye dönüştürdüm
+- 📲 Her gün yeni bir mobil app fikri aklıma gelir
 
 </div>
 
