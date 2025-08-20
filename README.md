@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-javascript
+```javascript
 const entrepreneur = {
   fullName: "🔥 [ADINIZ] 🔥",
   title: "Game Dev & AI Wizard 🎮🤖",
@@ -48,7 +48,7 @@ const entrepreneur = {
   
   motto: "Code is poetry, games are dreams! ✨"
 };
-
+```
 
 </td>
 <td width="50%" valign="top">
