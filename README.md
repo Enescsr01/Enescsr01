@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Oyunlar%C4%B1mla+hayalleri+ger%C3%A7ek+yap%C4%B1yorum+%F0%9F%8E%AE;Yapay+Zeka+ile+gelece%C4%9Fi+%C5%9Fekillendiriyorum+%F0%9F%A4%96" alt="Typing SVG" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Game%20Developer%20•%20AI%20Engineer%20•%20CEO&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=25"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Game%20Developer%20•%20AI%20Engineer%20•%20Mobile Developer&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=25"/>
 
 </div>
 
@@ -23,11 +23,11 @@
 
 ### 🏢 **Şirketler**
 - **💼 Fresko Yapı AŞ** - IT Manager  
-- **🚀 OtukenSoft** - Founder & CEO
+- **🚀 OtukenSoft** - Founder & Full Stack Developer
 
 ### 🎓 **Eğitim**
 - **📚 Malatya Turgut Özal Üniversitesi**
-- **💻 Software Engineering**
+- **💻 Computer Engineering**
 
 ### 💼 **Deneyim Geçmişi**
 - **🎯 İnfinetx** - Game Developer (Remote)
@@ -38,12 +38,12 @@
 `C#` `Unreal Engine` `Unity` `Python` `AI/ML` `React Native` `Flutter` `Kotlin` `Swift`
 
 ### 🎯 **Odak Alanları**
-Horror Games • AI Solutions • Mobile Apps
+Mobile Game • AI Solutions • Mobile Apps
 
 ---
 
 ### ☕ **Günlük Rutinlerim**
-- 🎮 Korku oyunu mekanikleri tasarla
+- 🎮 Mobile tasarla
 - 🤖 AI/ML modelleri eğit  
 - 📱 Mobile app prototype
 - 💼 IT altyapısı optimize et
@@ -155,7 +155,7 @@ Horror Games • AI Solutions • Mobile Apps
 ### 🎮 **Game Development** <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
 ```
 🏅 Unreal Engine Expert
-🏅 Horror Game Specialist  
+🏅 Mobile Game Specialist  
 🏅 Unity Pro Developer
 🏅 Game Mechanics Master
 🏅 3D Environment Artist
