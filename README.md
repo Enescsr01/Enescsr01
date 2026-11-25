@@ -62,7 +62,17 @@
 |---|---|---|
 | [Unreal Korku Oyunu](https://github.com/Enescsr01/Unreal-Engine-Korku-Oyunu-Projesi) | Atmosfer odaklı birinci şahıs korku oyunu | Unreal Engine · C++ · Blueprint |
 | [Ev Fiyat Tahmini](https://github.com/Enescsr01/mindsdb-ev-fiyat-tahmini-main) | Kaggle verisiyle AutoML tabanlı tahmin sitesi | MindsDB · JavaScript |
-| [OtukenSoft](https://www.otukensoft.com.tr) | Kurucusu olduğum yazılım şirketi | Next.js · TypeScript |
+| **Beyin Tümörü Tespiti** | Beyin tomografisi görüntülerinden tümör tespit eden yapay zekâ modeli — üniversite bitirme projesi | Python · Derin Öğrenme · Görüntü İşleme |
+
+### OtukenSoft
+
+Kurucusu olduğum yazılım ekibi — [otukensoft.com.tr](https://www.otukensoft.com.tr)
+
+| Proje | Açıklama | Stack |
+|---|---|---|
+| **AI Ürün Tanıma** | Yapay zekâ ve görüntü işleme ile ürünleri kameradan tanıyan sistem | Python · Bilgisayarlı Görü |
+| **Adisyon Mobil Uygulaması** | Restoran ve kafeler için sipariş/adisyon yönetimi | Flutter · Dart |
+| **OtukenSoft Web** | Şirket web sitesi | Next.js · TypeScript |
 
 ---
 
