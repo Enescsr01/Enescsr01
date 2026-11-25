@@ -54,8 +54,6 @@
 | [Fresko Storage](https://fresko-storage-web.vercel.app) | Depolama hizmetleri kurumsal sitesi |
 | [Taşcılar Mühendislik](https://t-muh-szwj.vercel.app) | Mekanik & tesisat firması kurumsal sitesi |
 | [Fresko Ödeme Takip](https://dia-analiz.vercel.app) | Excel ekstrelerini FIFO ile eşleştiren, TCMB kurlarıyla çalışan finans aracı |
-| [Dünya Sanat Akademi](https://dunya-sanat-akademi.vercel.app) | Etkinlik / konser davetiye sitesi |
-
 ### Diğer projeler
 
 | Proje | Açıklama | Stack |
@@ -72,8 +70,6 @@ Kurucusu olduğum yazılım ekibi — [otukensoft.com.tr](https://www.otukensoft
 |---|---|---|
 | **AI Ürün Tanıma** | Yapay zekâ ve görüntü işleme ile ürünleri kameradan tanıyan sistem | Python · Bilgisayarlı Görü |
 | **Adisyon Mobil Uygulaması** | Restoran ve kafeler için sipariş/adisyon yönetimi | Flutter · Dart |
-| **OtukenSoft Web** | Şirket web sitesi | Next.js · TypeScript |
-
 ---
 
 <div align="center">
